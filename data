@@ -11,7 +11,7 @@
 | Expense   | Bills        | Rent Share            | $150     |
 | Expense   | Shopping     | Clothes               | $40      |
 | Expense   | Shopping     | Online Shopping       | $25      |
-| Expense   | Other        | Random Purchase       | $10      |
+| Expense   | Other        | Random Purchases       | $10      |
 | **Total** | **Income**   | **All Income**        | **$800** |
 | **Total** | **Expenses** | **All Expenses**      | **$425** |
 | **Total** | **Balance**  | **Income - Expenses** | **$375** |
