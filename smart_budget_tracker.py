@@ -3,9 +3,8 @@ categories = {
     "food": 0.0,
     "gas": 0.0,
     "bills": 0.0,
-    "shopping": 0.0,
+    "shopping": 0.0, 
     "other": 0.0
-}
 
 total_income = 0.0
 
