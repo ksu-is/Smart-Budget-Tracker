@@ -1,0 +1,17 @@
+| Type      | Category     | Description           | Amount   |
+| --------- | ------------ | --------------------- | -------- |
+| Income    | Income       | Paycheck              | $600     |
+| Income    | Income       | Extra Support         | $200     |
+| Expense   | Food         | Groceries             | $25      |
+| Expense   | Food         | Takeout               | $20      |
+| Expense   | Food         | Snacks & Drinks       | $20      |
+| Expense   | Gas          | Gas Fill-Up 1         | $30      |
+| Expense   | Gas          | Gas Fill-Up 2         | $25      |
+| Expense   | Bills        | Phone Bill            | $80      |
+| Expense   | Bills        | Rent Share            | $150     |
+| Expense   | Shopping     | Clothes               | $40      |
+| Expense   | Shopping     | Online Shopping       | $25      |
+| Expense   | Other        | Random Purchase       | $10      |
+| **Total** | **Income**   | **All Income**        | **$800** |
+| **Total** | **Expenses** | **All Expenses**      | **$425** |
+| **Total** | **Balance**  | **Income - Expenses** | **$375** |
